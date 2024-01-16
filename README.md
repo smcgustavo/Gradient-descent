@@ -1,1 +1,1 @@
-Gradient descent
+Gradient descent implementation from scratch.
